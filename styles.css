@@ -1,1 +1,40 @@
 /*  your css code here. If applicable */
+*{
+	background-color:rgb(135, 206, 235);
+}
+.p1{
+	color:rgb(256,256,256);
+	background-color:black;
+.p2{
+	color:standard;
+}
+	.p3{
+	color:red;
+}
+	li{
+		padding:10px;
+		width:50%
+		background-color:grey;
+	}
+	li:first-child{
+		front-size:22px;
+		background-color:white;
+	}
+	li:nth-child(2){
+		
+		background-color:grey;
+	}
+	li:nth-child(3){
+		
+		background-color:pink;
+	}
+	li:nth-child(4){
+		
+		background-color:grey;
+	}
+	li:last-child(2){
+		font-size:22px
+		
+		background-color:white;
+}
+	
